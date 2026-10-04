@@ -43,9 +43,9 @@ modified: '2026-07-20'
 tags:
 - Company
 - Artificial Intelligence
-- Customer-Support
+- Customer Support
 - Homebuilding
-- Real-Estate
+- Real Estate
 - Warranty
 - Software-as-a-Service
 - Conversational AI
@@ -58,6 +58,8 @@ tags_raw:
 - Warranty
 - SaaS
 - Conversational AI
+- Customer-Support
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
