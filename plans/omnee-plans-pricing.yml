@@ -1,0 +1,44 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.omnee.ai/
+sources:
+- https://www.omnee.ai/
+- https://omnee.ai/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: usage-other
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: 'Homepage with a pricing section: one-time fee per home across three tiers. Currency symbol is $;
+  page does not specify which dollar.'
+plan_count: 3
+currency: USD
+plans:
+- name: Warranty Triage
+  price_text: Starting as low as $119
+  price: 119
+  currency: USD
+  period: one-time
+  unit: Per Home
+  included_quota: Customized AI warranty Agent; Ticket management & reporting app; Basic system integrations
+- name: AI Customer Care
+  price_text: Starting as low as $299
+  price: 299
+  currency: USD
+  period: one-time
+  unit: Per Home
+  included_quota: Warranty Triage; Digital twin & home data; Personalized home assistant
+- name: Enterprise Partner
+  price_text: Starting as low as $219
+  price: 219
+  currency: USD
+  period: one-time
+  unit: Per Home
+  included_quota: AI Customer Care; Custom integrations; For multi-city high-volume builders
